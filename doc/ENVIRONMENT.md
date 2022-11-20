@@ -37,7 +37,4 @@ Virtual Environment Configuration:
     $> deactivate
     
     # If your virtual environment is in a directory called 'env':
-    $> rm -r env    
-
-
-
+    $> rm -r env
